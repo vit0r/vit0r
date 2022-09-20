@@ -3,7 +3,8 @@
 - 🔭 I’m currently working on DevOpsEng
 - 🌱 I’m currently learning Cyber Security (DevSecOps)
 - 👯 I’m looking to collaborate on Forencies projects
-- 🤔 I’m looking for help with my social networking
+- 🤔 ?
 - 💬 Ask me about Linux,Python and SIEM
-- 😄 Pronouns: Ele Jonas
-- ⚡ Fun fact: don't have any one
+
+[![Paint it Green - A SUSE Music Parody](https://img.youtube.com/vi/VID/0.jpg)](https://youtu.be/b0tsZB_LEQk)
+
